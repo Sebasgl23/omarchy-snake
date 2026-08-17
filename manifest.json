@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "sebasgl23.snake",
+  "name": "Snake",
+  "version": "1.0.0",
+  "author": "sebasgl23",
+  "license": "MIT",
+  "description": "A compact, theme-aware Snake game for the Omarchy bar.",
+  "kinds": [
+    "bar-widget"
+  ],
+  "activation": "on-demand",
+  "entryPoints": {
+    "barWidget": "BarWidget.qml"
+  },
+  "barWidget": {
+    "displayName": "Snake",
+    "description": "Classic Snake in a keyboard-focused Omarchy panel.",
+    "category": "Games",
+    "allowMultiple": false,
+    "defaultSection": "right"
+  }
+}
