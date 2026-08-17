@@ -15,6 +15,18 @@ omarchy plugin add https://github.com/sebasgl23/omarchy-snake.git --enable
 The widget defaults to the right section of the bar. You can move it with the
 standard Omarchy bar commands.
 
+## Update
+
+```bash
+omarchy plugin update sebasgl23.snake
+```
+
+## Uninstall
+
+```bash
+omarchy plugin remove sebasgl23.snake
+```
+
 ## Controls
 
 - Arrow keys, WASD or HJKL: move
