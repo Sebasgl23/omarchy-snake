@@ -4,6 +4,8 @@ A compact, theme-aware Snake game that lives in the Omarchy 4 bar. It uses the
 native Quickshell plugin APIs, follows the active Omarchy palette and requires
 no external runtime dependencies.
 
+![Omarchy Snake preview](preview.png)
+
 ## Install
 
 ```bash
